@@ -4,6 +4,7 @@
 - 🌱 I’m looking for job change.
 - 💬 Ask me about related data science
 - 📫 How to reach me:(https://www.linkedin.com/in/devang-mittal8533865600/)
+- 📫 Contact me on mittaldevang0206@gmail.com
 
 <!---
 mittaldevang08/mittaldevang08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
